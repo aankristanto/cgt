@@ -1,0 +1,5 @@
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt\cgt\bin\cgt.dll.config
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt\cgt\bin\cgt.dll
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt\cgt\bin\cgt.pdb
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt\cgt\obj\Debug\cgt.dll
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt\cgt\obj\Debug\cgt.pdb

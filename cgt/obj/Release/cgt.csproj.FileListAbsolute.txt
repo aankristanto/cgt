@@ -1,0 +1,11 @@
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt\cgt\bin\cgt.dll.config
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt\cgt\bin\cgt.dll
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt\cgt\bin\cgt.pdb
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt\cgt\obj\Release\cgt.dll
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt\cgt\obj\Release\cgt.pdb
+Y:\cgt\cgt\bin\cgt.dll.config
+Y:\cgt\cgt\bin\cgt.dll
+Y:\cgt\cgt\bin\cgt.pdb
+Y:\cgt\cgt\obj\Release\cgt.dll
+Y:\cgt\cgt\obj\Release\cgt.pdb
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt\cgt\obj\Release\cgt.csprojResolveAssemblyReference.cache
